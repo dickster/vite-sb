@@ -7,6 +7,8 @@ import HelloWorld from './components/HelloWorld.vue'
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
   <HelloWorld msg="Hello Vue 3 + Vite" />
+  <q-btn color="primary">my button</q-btn>
+  <div color="primary">my button</div>
 </template>
 
 <style>
